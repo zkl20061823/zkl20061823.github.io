@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on KAILI ZHAO</title>
+    <link>https://zkl20061823.github.io/authors/</link>
+    <description>Recent content in Authors on KAILI ZHAO</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://zkl20061823.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://zkl20061823.github.io/authors/admin/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zkl20061823.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Kaili Zhao is an assistant professor of artificial intelligence at Beijing University of posts and Telecommunications. Here research interests are in computer vision and machine learning. She has developed techniques spanning over structured multi-task learning, weakly-supervised learning and deep learning. She also led research projects in facial expression analysis, AU detection and image segmentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wen-Sheng Chu, Aleix M. Martinez</title>
+      <link>https://zkl20061823.github.io/authors/wen-sheng-chu-aleix-m.-martinez/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zkl20061823.github.io/authors/wen-sheng-chu-aleix-m.-martinez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wen-Sheng Chu, Honggang Zhang</title>
+      <link>https://zkl20061823.github.io/authors/wen-sheng-chu-honggang-zhang/</link>
+      <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zkl20061823.github.io/authors/wen-sheng-chu-honggang-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wen-Sheng Chu, Fernando De la Torre, Jeffery F. Cohn, Honggang Zhang</title>
+      <link>https://zkl20061823.github.io/authors/wen-sheng-chu-fernando-de-la-torre-jeffery-f.-cohn-honggang-zhang/</link>
+      <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zkl20061823.github.io/authors/wen-sheng-chu-fernando-de-la-torre-jeffery-f.-cohn-honggang-zhang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
