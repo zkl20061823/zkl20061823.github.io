@@ -96,6 +96,40 @@
     </item>
     
     <item>
+      <title>Pedestrian detection</title>
+      <link>https://zkl20061823.github.io/project/ped-project/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zkl20061823.github.io/project/ped-project/</guid>
+      <description>
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://zkl20061823.github.io/img/pedet_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+&lt;p&gt;Pedestrian detection.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Deep Region and Multi-label Learning for Facial Action Unit Detection</title>
       <link>https://zkl20061823.github.io/publication/p4/</link>
       <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
