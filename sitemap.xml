@@ -48,32 +48,37 @@
   </url>
   
   <url>
-    <loc>https://zkl20061823.github.io/project/external-project/</loc>
-    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zkl20061823.github.io/tags/deep-learning/</loc>
-    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zkl20061823.github.io/tags/demo/</loc>
-    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://zkl20061823.github.io/project/ped-project/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zkl20061823.github.io/project/</loc>
-    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zkl20061823.github.io/tags/</loc>
-    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zkl20061823.github.io/project/external-project/</loc>
+    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -95,11 +100,6 @@
   
   <url>
     <loc>https://zkl20061823.github.io/project/internal-project/</loc>
-    <lastmod>2018-06-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zkl20061823.github.io/project/ped-project/</loc>
     <lastmod>2018-06-27T00:00:00+00:00</lastmod>
   </url>
   

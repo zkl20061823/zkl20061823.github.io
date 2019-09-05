@@ -21,6 +21,40 @@
     </item>
     
     <item>
+      <title>Pedestrian detection</title>
+      <link>https://zkl20061823.github.io/project/ped-project/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zkl20061823.github.io/project/ped-project/</guid>
+      <description>
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://zkl20061823.github.io/img/pedet_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+&lt;p&gt;Pedestrian detection.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Crowd Counting</title>
       <link>https://zkl20061823.github.io/project/external-project/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
@@ -92,40 +126,6 @@
 &lt;/video&gt;
 
 &lt;p&gt;Face detection and expression analysis.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pedestrian detection</title>
-      <link>https://zkl20061823.github.io/project/ped-project/</link>
-      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://zkl20061823.github.io/project/ped-project/</guid>
-      <description>
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-&lt;video controls &gt;
-  &lt;source src=&#34;https://zkl20061823.github.io/img/pedet_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-
-&lt;p&gt;Pedestrian detection.&lt;/p&gt;
 </description>
     </item>
     
