@@ -112,8 +112,8 @@ We train SSD as a single-shot face detector, use data assosiation as face tracke
 Specifically, in Deep Region Learning, we include soft-max loss to replace  multi-label loss in [1], and keep using deep region learning module for updating feature maps by each local region whiletraining binary epression classifier.
 In addition, we inlcude WIDER-FACE dataset [2] and RAF expression dataset [3] for tranining.&lt;/p&gt;
 
-&lt;p&gt;[1] Kaili Zhao, Wen-Sheng Chu, Honggang Zhang, &amp;ldquo;Deep Region and Multi-label Learning for Facial Action Unit Detection&amp;rdquo;. CVPR 2016.
-[2] Yang, Shuo, et al. &amp;ldquo;Wider face: A face detection benchmark.&amp;rdquo; Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.
+&lt;p&gt;[1] Kaili Zhao, Wen-Sheng Chu, Honggang Zhang, &amp;ldquo;Deep Region and Multi-label Learning for Facial Action Unit Detection&amp;rdquo;. CVPR 2016.&lt;br /&gt;
+[2] Yang, Shuo, et al. &amp;ldquo;Wider face: A face detection benchmark.&amp;rdquo; Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.&lt;br /&gt;
 [3] Shan Li, Weihong Deng, JunPing DU, &amp;ldquo;Reliable Crowdsourcing and Deep Locality-Preserving Learning for Expression Recognition in the Wild&amp;rdquo;, CVPR 2017.&lt;/p&gt;
 </description>
     </item>
