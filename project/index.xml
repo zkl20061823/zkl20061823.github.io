@@ -83,7 +83,7 @@
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://zkl20061823.github.io/project/internal-project/</guid>
-      <description>
+      <description>&lt;p&gt;
 
 
 
@@ -107,7 +107,29 @@
   &lt;source src=&#34;https://zkl20061823.github.io/img/fdat_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 
-&lt;p&gt;Face detection, tracking, and expression recognition.
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://zkl20061823.github.io/img/fdat_exp2.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+Face detection, tracking, and expression recognition.
 We train SSD as a single-shot face detector, use data assosiation as face tracker, and exploit Deep Region Learning [1] as expression clssifier.
 Specifically, in Deep Region Learning, we include soft-max loss to replace  multi-label loss in [1], and keep using deep region learning module for updating feature maps by each local region whiletraining binary epression classifier.
 In addition, we inlcude WIDER-FACE dataset [2] and RAF expression dataset [3] for tranining.&lt;/p&gt;
