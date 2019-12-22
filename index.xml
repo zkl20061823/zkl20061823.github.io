@@ -121,7 +121,7 @@
   
 
 
-&lt;video controls &gt;
+&lt;video autoplay loop &gt;
   &lt;source src=&#34;https://zkl20061823.github.io/img/fdat_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 
