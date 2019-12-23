@@ -37,7 +37,7 @@
   
 
 
-&lt;video controls &gt;
+&lt;video autoplay loop &gt;
   &lt;source src=&#34;https://zkl20061823.github.io/img/pedet_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 
@@ -92,7 +92,7 @@ In the projects, we conducted a light-weight model of 0.82 million parameters an
     </item>
     
     <item>
-      <title>Deep Region Learning for Facial Expression Recognition.</title>
+      <title>Facial Expression Recognition</title>
       <link>https://zkl20061823.github.io/project/internal-project/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
       
