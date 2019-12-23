@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep learning on KAILI ZHAO</title>
+    <title>Deep Learning on KAILI ZHAO</title>
     <link>https://zkl20061823.github.io/tags/deep-learning/</link>
-    <description>Recent content in Deep learning on KAILI ZHAO</description>
+    <description>Recent content in Deep Learning on KAILI ZHAO</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
@@ -71,12 +71,17 @@
   
 
 
-&lt;video controls &gt;
+&lt;video autoplay loop &gt;
   &lt;source src=&#34;https://zkl20061823.github.io/img/cc_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 
+&lt;p&gt;Examples of predictions of our model on ShanghaiTech B [1]:
+&lt;img src=&#34;cc_33.jpg&#34; width=&#34;2048px&#34; height=&#34;1024px&#34; /&gt;
+&lt;img src=&#34;cc_35.jpg&#34; width=&#34;2048px&#34; height=&#34;1024px&#34; /&gt;
+&lt;img src=&#34;cc_61.jpg&#34; width=&#34;2048px&#34; height=&#34;1024px&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;This project implemented model for counting how many people in conjested crowds.
-In the projects, we conducted a light-weight model of 0.82 million parameters and included dilated convolutions to help capture information of various head sizes. In crowds of 500 people, our model achieved absolute error of 10. We trained the model on three public datasets: Shanghaitech A / B [1], WorldExpo [2], and UCSD [3].&lt;/p&gt;
+In the projects, we conducted a light-weight model of 0.82 million parameters and included dilated convolutions to help capture information of various head sizes. In crowds of 200 people, our model achieved absolute error of 10. We trained the model on three public datasets: ShanghaiTech A / B [1], WorldExpo [2], and UCSD [3].&lt;/p&gt;
 
 &lt;p&gt;&lt;font size=&#34;3&#34;&gt;
 [1] Zhang, Yingying, et al. &amp;ldquo;Single-image crowd counting via multi-column convolutional neural network.&amp;rdquo; Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.&lt;br /&gt;
