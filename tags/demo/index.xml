@@ -78,8 +78,8 @@
 &lt;p&gt;This project implemented model for counting how many people in conjested crowds.
 In the projects, we conducted a light-weight model of 0.82 million parameters and included dilated convolutions to help capture information of various head sizes. In crowds of 500 people, our model achieved absolute error of 10. We trained the model on three public datasets: Shanghaitech A / B [1], WorldExpo [2], and UCSD [3].&lt;/p&gt;
 
-&lt;p&gt;[1] Zhang, Yingying, et al. &amp;ldquo;Single-image crowd counting via multi-column convolutional neural network.&amp;rdquo; Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.
-[2] Zhang, Cong, et al. &amp;ldquo;Cross-scene crowd counting via deep convolutional neural networks.&amp;rdquo; Proceedings of the IEEE conference on computer vision and pattern recognition. 2015.
+&lt;p&gt;[1] Zhang, Yingying, et al. &amp;ldquo;Single-image crowd counting via multi-column convolutional neural network.&amp;rdquo; Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.&lt;br /&gt;
+[2] Zhang, Cong, et al. &amp;ldquo;Cross-scene crowd counting via deep convolutional neural networks.&amp;rdquo; Proceedings of the IEEE conference on computer vision and pattern recognition. 2015.&lt;br /&gt;
 [3] A. B. Chan, Zhang-Sheng John Liang, and N. Vasconcelos. Privacy preserving crowd monitoring: Counting people without people models or tracking. In 2008 IEEE Conference on Computer Vision and Pattern Recognition, 2008&lt;/p&gt;
 </description>
     </item>
