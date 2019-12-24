@@ -166,8 +166,9 @@ In the projects, we conducted a light-weight model of 0.82 million parameters an
 
 &lt;video autoplay loop &gt;
   &lt;source src=&#34;https://zkl20061823.github.io/img/fdat_exp2.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-This project contains three crucial modules including face detection, tracking, and expression recognition.
+&lt;/video&gt;&lt;/p&gt;
+
+&lt;p&gt;This project contains three crucial modules including face detection, tracking, and expression recognition.
 We included SSD as a single-shot face detector, used data assosiation as face tracker, and exploited Deep Region Learning [1] as expression clssifier.
 Specifically, in Deep Region Learning, we introduced soft-max loss to replace  multi-label loss in [1], and used deep region learning module for updating feature maps for each local region.
 In addition, we inlcude WIDER-FACE dataset [2] and RAF expression dataset [3] for tranining face detector and expression classifier separately.&lt;/p&gt;
