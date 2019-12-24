@@ -17,7 +17,8 @@
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://zkl20061823.github.io/project/ped-project/</guid>
-      <description>
+      <description>&lt;p&gt;Rarely occluded pedestrians:
+
 
 
 
@@ -39,9 +40,12 @@
 
 &lt;video autoplay loop &gt;
   &lt;source src=&#34;https://zkl20061823.github.io/img/pedet_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
+&lt;/video&gt;&lt;/p&gt;
 
-&lt;p&gt;Pedestrian detection.&lt;/p&gt;
+&lt;p&gt;Heavily occluded pedestrians:
+&lt;img src=&#34;ped1.jpg&#34; width=&#34;2048px&#34; height=&#34;1024px&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This project built a single-stage detector for occluded pedestrian.&lt;/p&gt;
 </description>
     </item>
     
@@ -51,7 +55,8 @@
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://zkl20061823.github.io/project/external-project/</guid>
-      <description>
+      <description>&lt;p&gt;Examples of our predictions on other domain images (captured from &lt;a href=&#34;https://www.youtube.com/watch?v=6NLe4syTWgQ&#34;&gt;Shibuya crossing&lt;/a&gt;):
+
 
 
 
@@ -73,9 +78,9 @@
 
 &lt;video autoplay loop &gt;
   &lt;source src=&#34;https://zkl20061823.github.io/img/cc_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
+&lt;/video&gt;&lt;/p&gt;
 
-&lt;p&gt;Examples of predictions of our model on ShanghaiTech B [1]:
+&lt;p&gt;Examples of our predictions on ShanghaiTech B [1]:
 &lt;img src=&#34;cc_33.jpg&#34; width=&#34;2048px&#34; height=&#34;1024px&#34; /&gt;
 &lt;img src=&#34;cc_35.jpg&#34; width=&#34;2048px&#34; height=&#34;1024px&#34; /&gt;
 &lt;img src=&#34;cc_61.jpg&#34; width=&#34;2048px&#34; height=&#34;1024px&#34; /&gt;&lt;/p&gt;
