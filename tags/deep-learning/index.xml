@@ -13,10 +13,10 @@
     
     <item>
       <title>Pedestrian detection</title>
-      <link>https://zkl20061823.github.io/project/ped-project/</link>
+      <link>https://zkl20061823.github.io/project/ped/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zkl20061823.github.io/project/ped-project/</guid>
+      <guid>https://zkl20061823.github.io/project/ped/</guid>
       <description>&lt;p&gt;Rarely occluded pedestrians:
 
 
@@ -51,10 +51,10 @@
     
     <item>
       <title>Crowd Counting</title>
-      <link>https://zkl20061823.github.io/project/external-project/</link>
+      <link>https://zkl20061823.github.io/project/cc/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zkl20061823.github.io/project/external-project/</guid>
+      <guid>https://zkl20061823.github.io/project/cc/</guid>
       <description>&lt;p&gt;Examples of our predictions on other domain images (captured from &lt;a href=&#34;https://www.youtube.com/watch?v=6NLe4syTWgQ&#34;&gt;Shibuya crossing&lt;/a&gt;):
 
 
@@ -98,10 +98,10 @@ In the projects, we conducted a light-weight model of 0.82 million parameters an
     
     <item>
       <title>Facial Expression Recognition</title>
-      <link>https://zkl20061823.github.io/project/internal-project/</link>
+      <link>https://zkl20061823.github.io/project/fer/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zkl20061823.github.io/project/internal-project/</guid>
+      <guid>https://zkl20061823.github.io/project/fer/</guid>
       <description>&lt;p&gt;Demos of our model performed on images captured from the film &lt;a href=&#34;https://www.youtube.com/watch?v=B8rD68a5LQQ&#34;&gt; &amp;ldquo;King of Comedy&amp;rdquo;&lt;/a&gt; produced by Stephen Chow and previous cuts of &lt;a href=&#34;https://www.youtube.com/watch?v=tiicx0d7yBg&#34;&gt; &amp;ldquo;27 Emotions Every Actor Should Know&amp;rdquo; &lt;/a&gt;.
 
 
