@@ -527,7 +527,7 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      <p>Rarely occluded pedestrians:
+      <p>Reasonably occluded pedestrians:
 
 
 
@@ -552,10 +552,16 @@
   <source src="/img/pedet_video.mp4" type="video/mp4">
 </video></p>
 
-<p>Heavily occluded pedestrians:
+<p>Heavily occluded pedestrians in CityPersons dataset [1]:
 <img src="ped1.jpg" width="2048px" height="1024px" /></p>
 
-<p>This project built a single-stage detector for occluded pedestrian.</p>
+<p>This project built a single-stage detector for occluded pedestrian. We exploited occlusion statistics to shorten the gap between visible part and full-body region of pedestrian. Our model achieved comparative miss rate with 10.6 for reasonable occlusions and 42.0 for heavy occlusions, and performed competative testing time of 0.22 seconds for images with high-res of 1024 x 2048. The model was trained on three public datasets including Citypersons [1], Caltech [2] and ETH [3].</p>
+
+<p><font size="3">
+[1] S. Zhang, R. Benenson, and B. Schiele, “Citypersons: A diverse dataset for pedestrian detection,&rdquo; CVPR, 2017.\
+[2] P. Doll´ar, C. Wojek, B. Schiele, and P. Perona, “Pedestrian detection: An evaluation of the state of the art,&rdquo; TPAMI, vol.34, 2012.<br />
+[3] A. Ess, B. Leibe, and L. Van Gool, “Depth and appearance for mobile scene analysis,&rdquo; in ICCV, 2017.
+</font></p>
 
     </div>
 
