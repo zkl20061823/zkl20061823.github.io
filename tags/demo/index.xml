@@ -48,8 +48,8 @@
 &lt;p&gt;This project built a single-stage detector for occluded pedestrian. We exploited occlusion statistics to shorten the gap between visible part and full-body region of pedestrian. Our model achieved comparative miss rate with 10.6 for reasonable occlusions and 42.0 for heavy occlusions, and performed competative testing time of 0.22 seconds for images with high-res of 1024 x 2048. The model was trained on three public datasets including Citypersons [1], Caltech [2] and ETH [3].&lt;/p&gt;
 
 &lt;p&gt;&lt;font size=&#34;3&#34;&gt;
-[1] S. Zhang, R. Benenson, and B. Schiele, “Citypersons: A diverse dataset for pedestrian detection,&amp;rdquo; CVPR, 2017.\
-[2] P. Doll´ar, C. Wojek, B. Schiele, and P. Perona, “Pedestrian detection: An evaluation of the state of the art,&amp;rdquo; TPAMI, vol.34, 2012.&lt;br /&gt;
+[1] S. Zhang, R. Benenson, and B. Schiele, “Citypersons: A diverse dataset for pedestrian detection,&amp;rdquo; CVPR, 2017. &lt;br /&gt;
+[2] P. Dollar, C. Wojek, B. Schiele, and P. Perona, “Pedestrian detection: An evaluation of the state of the art,&amp;rdquo; TPAMI, vol.34, 2012.&lt;br /&gt;
 [3] A. Ess, B. Leibe, and L. Van Gool, “Depth and appearance for mobile scene analysis,&amp;rdquo; in ICCV, 2017.
 &lt;/font&gt;&lt;/p&gt;
 </description>
