@@ -17,7 +17,54 @@
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://zkl20061823.github.io/project/ped-project/</guid>
-      <description>&lt;p&gt;Reasonably occluded pedestrians:
+      <description>&lt;p&gt;
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video autoplay loop &gt;
+  &lt;source src=&#34;https://zkl20061823.github.io/img/ped-mall.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video autoplay loop &gt;
+  &lt;source src=&#34;https://zkl20061823.github.io/img/ped-street.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+
+&lt;!--Reasonably occluded pedestrians:
 
 
 
@@ -39,13 +86,13 @@
 
 
 &lt;video controls &gt;
-  &lt;source src=&#34;https://zkl20061823.github.io/img/pedet_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/p&gt;
+  &lt;source src=&#34;https://zkl20061823.github.io/img/ped-mall.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
 
-&lt;p&gt;Heavily occluded pedestrians in CityPersons dataset [1]:
-&lt;img src=&#34;ped1.jpg&#34; width=&#34;2048px&#34; height=&#34;1024px&#34; /&gt;&lt;/p&gt;
+Heavily occluded pedestrians in CityPersons dataset [1]:
+&lt;img src=&#34;ped1.jpg&#34; width=&#34;2048px&#34; height=&#34;1024px&#34; /&gt; --&gt;
 
-&lt;p&gt;This project built a single-stage detector for occluded pedestrian. We exploited occlusion statistics to shorten the gap between visible part and full-body region of pedestrian. Our model achieved comparative miss rate with 10.6 for reasonable occlusions and 42.0 for heavy occlusions, and performed competative testing time of 0.22 seconds for images with high-res of 1024 x 2048. The model was trained on three public datasets including Citypersons [1], Caltech [2] and ETH [3].&lt;/p&gt;
+&lt;p&gt;This project built a single-stage detector for occluded pedestrian. We learn full-body region from visible parts and use anchor calibration to reduce gaps of these two tasks. Over SoTA alternativs on CityPersons [1] dataset, our model achieved comparative miss rate with 10.8 for reasonable occlusions and 42.0 for heavy occlusions, and offered comparable detection speed of 0.22 seconds for images with high-res of 1024 x 2048. Over model generalization, our model can generalize to various scenarios like shopping mall and walking street, as shown in the above demos. The model was trained on three public datasets including Citypersons [1], Caltech [2] and ETH [3].&lt;/p&gt;
 
 &lt;p&gt;&lt;font size=&#34;3&#34;&gt;
 [1] S. Zhang, R. Benenson, and B. Schiele, “Citypersons: A diverse dataset for pedestrian detection,&amp;rdquo; CVPR, 2017. &lt;br /&gt;
@@ -82,7 +129,7 @@
   
 
 
-&lt;video controls &gt;
+&lt;video autoplay loop &gt;
   &lt;source src=&#34;https://zkl20061823.github.io/img/cc_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;&lt;/p&gt;
 
@@ -129,7 +176,7 @@ In the projects, we conducted a light-weight model of 0.82 million parameters an
   
 
 
-&lt;video controls &gt;
+&lt;video autoplay loop &gt;
   &lt;source src=&#34;https://zkl20061823.github.io/img/fdat_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 
@@ -152,7 +199,7 @@ In the projects, we conducted a light-weight model of 0.82 million parameters an
   
 
 
-&lt;video controls &gt;
+&lt;video autoplay loop &gt;
   &lt;source src=&#34;https://zkl20061823.github.io/img/fdat_exp2.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;&lt;/p&gt;
 
