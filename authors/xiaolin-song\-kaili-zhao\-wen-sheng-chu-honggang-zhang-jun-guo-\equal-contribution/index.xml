@@ -31,6 +31,32 @@
  Your browser does not support pdfs, &lt;a href=&#34;prnet_10min.pdf&#34;&gt;click here to
   download the file.&lt;/a&gt;
 #&lt;/object&gt;--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Demo&lt;/h3&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video autoplay loop &gt;
+  &lt;source src=&#34;https://zkl20061823.github.io/img/ped-street.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+Please refer to project &lt;a href=&#34;https://zkl20061823.github.io/project/ped-project/&#34;&gt;pedestrian detection&lt;/a&gt; for more demos.&lt;/p&gt;
 </description>
     </item>
     

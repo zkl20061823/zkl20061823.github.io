@@ -31,6 +31,32 @@
  Your browser does not support pdfs, &lt;a href=&#34;prnet_10min.pdf&#34;&gt;click here to
   download the file.&lt;/a&gt;
 #&lt;/object&gt;--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Demo&lt;/h3&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video autoplay loop &gt;
+  &lt;source src=&#34;https://zkl20061823.github.io/img/ped-street.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+Please refer to project &lt;a href=&#34;https://zkl20061823.github.io/project/ped-project/&#34;&gt;pedestrian detection&lt;/a&gt; for more demos.&lt;/p&gt;
 </description>
     </item>
     
@@ -84,10 +110,8 @@
 
 
 &lt;video autoplay loop &gt;
-  &lt;source src=&#34;https://zkl20061823.github.io/img/ped-street.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;img src=&#34;ped-beach.png&#34; width=&#34;2048px&#34; height=&#34;1024px&#34; /&gt;
-&lt;img src=&#34;ped-skate.png&#34; width=&#34;2048px&#34; height=&#34;1024px&#34; /&gt;&lt;/p&gt;
+  &lt;source src=&#34;https://zkl20061823.github.io/img/ped-beach.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
 
 &lt;!--Reasonably occluded pedestrians:
 
@@ -117,7 +141,7 @@
 Heavily occluded pedestrians in CityPersons dataset [1]:
 &lt;img src=&#34;ped1.jpg&#34; width=&#34;2048px&#34; height=&#34;1024px&#34; /&gt; --&gt;
 
-&lt;p&gt;This project built a single-stage detector for occluded pedestrian. We learn full-body region from visible parts and use anchor calibration to reduce gaps of these two tasks. Over SoTA alternativs on CityPersons [1] dataset, our model achieved comparative miss rate with 10.8 for reasonable occlusions and 42.0 for heavy occlusions, and offered comparable detection speed of 0.22 seconds for images with high-res of 1024 x 2048. Over model generalization, our model can generalize to various scenarios like shopping mall, walking street, beach, and ice skating, as shown in the above demos. The model was trained on three public datasets including Citypersons [1], Caltech [2] and ETH [3].&lt;/p&gt;
+&lt;p&gt;This project built a single-stage detector for occluded pedestrian. We learn full-body region from visible parts and use anchor calibration to reduce gaps of these two tasks. Over SoTA alternativs on CityPersons [1] dataset, our model achieved comparative miss rate with 10.8 for reasonable occlusions and 42.0 for heavy occlusions, and offered comparable detection speed of 0.22 seconds for images with high-res of 1024 x 2048. Over model generalization, our model can generalize to various scenarios like shopping mall and beach as shown in the above demos. The model was trained on three public datasets including Citypersons [1], Caltech [2] and ETH [3].&lt;/p&gt;
 
 &lt;p&gt;&lt;font size=&#34;3&#34;&gt;
 [1] S. Zhang, R. Benenson, and B. Schiele, “Citypersons: A diverse dataset for pedestrian detection,&amp;rdquo; CVPR, 2017. &lt;br /&gt;
